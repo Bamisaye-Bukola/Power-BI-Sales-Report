@@ -33,7 +33,7 @@ In this preparation phase,we performed the following tasks;
 4. Data cleaning and formatting
 
 ## Insight Page
- Production Expenses
+1.  Production Expenses
  
  *  Rwanda incurs the highest production costs among the top ten revenue generated countries.
  *  Office supplies and household items account for the bulk for production costs,followed by other categories.
@@ -46,3 +46,41 @@ In this preparation phase,we performed the following tasks;
 
 
 [Production expenses 2](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/54d0f6cd-7c46-4599-96c3-e4e500930588)
+
+2. Revenue
+
+* Rwanda,Congo,South Korea and other top ten countries from Sub-saharan Africa,Asia and Europe significicantly contribute to the company's overall revenue.
+* Household supplies,office supplies, and consmetics contribute the most to the firm's total valuation,while beverages and fruits contribute the least
+
+[Revenue](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/100feb71-ad82-4277-a161-bf45f617f2b5)
+
+
+3. Profitability
+
+* Rwanda,South korea,and Myanmar lead in profitability,with profit margins of 25.16%,27.29% and 29.69% respectively.
+* Yemen and vietnam experience profit declines in the profitability landscape.
+*  Cosmetics generate the highest net profit, followed by household and office supplies among the item types.
+
+  [Profitability 1](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/cfd7a730-3b00-40d4-900e-484472cf9e99)
+  
+[profitability 2](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/3bdb04d6-98b9-4446-93f1-cde9d9ab2982)
+
+
+4. Profit Margins
+
+* Kazakhstan boasts the highest profit margin,followed by the Bahamas and chad.Portugal, Nicaragua,and Iran exhibit the lowest margins among the countries.
+* Clothing tops the chart with a remarkable 69.20% profit margin,followed by cereal and vegetable.Household and office supplies, along with meat,exhibit the lowest profit margins despite substantial investments in these sectors.
+*  Sub-saharan Africa enjoys a strong profit margin of 27.05% over the years,followed by Europe and Asia. Other regions inculding North America,Australia, and  the Middle East demonstrate lower profit margins.
+
+  
+[Profit margin 1](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/8266df91-b850-4b5f-87d6-0c1a5b3ba951)
+
+[profit Margin 2](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/0df9c584-015d-4667-9e3a-46911cf690c3)
+
+
+## Recommendation
+
+* Optimize Product Mix: Focus on high-margin products like clothing,cereal, and vegetables while re-evaluating investment strategies for lower-margin items.
+*  Enhance Asia and Middle East Operation: Asia and Middle East strong profit margins and untapped potential by expanding operations and exploring new opportunities in the region.
+*  
+

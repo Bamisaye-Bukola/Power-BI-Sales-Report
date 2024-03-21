@@ -41,9 +41,8 @@ In this preparation phase,we performed the following tasks;
  *  2015 withnessed the company's highest production costs,leading to lower income for that year.
 
    
- 
-   
+ [production 1](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/97d9e96a-6ecc-440f-b816-a53edb764e65)
 
 
-   
-   
+
+[Production expenses 2](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/54d0f6cd-7c46-4599-96c3-e4e500930588)

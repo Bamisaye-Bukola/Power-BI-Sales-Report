@@ -14,3 +14,9 @@ The primary source of this dataset is a "sale-data-csv" file, containing detaile
 - Power BI-Data cleaning and Creating Reports
 
   ## Data Cleaning/Preparation
+In this preparation phase,we performed the following tasks;
+1. Data loading and inspection
+2. Handling missing values
+3. Removed duplicate roles
+4. Data cleaning and formatting
+   

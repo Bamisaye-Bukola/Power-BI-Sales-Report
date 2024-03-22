@@ -1,5 +1,9 @@
 # Power-BI-Sales-Report
 
+## Table of contents
+
+- [Objectives](#objectives)
+
 ![](500Salesdataset.JPG)
 
 ## Project Overview
@@ -82,5 +86,7 @@ In this preparation phase,we performed the following tasks;
 
 * Optimize Product Mix: Focus on high-margin products like clothing,cereal, and vegetables while re-evaluating investment strategies for lower-margin items.
 *  Enhance Asia and Middle East Operation: Asia and Middle East strong profit margins and untapped potential by expanding operations and exploring new opportunities in the region.
-*  
+*  Monitor Global Economic Trends: Stay abreast of economic developments in various regions to anticipate potential shifts in revenue,production costs, and profit margins.
+*  Embrace Data-Driven Decision Making: Continuously analyze data to identify trends,optimize resource allocation, and make informed busniess.
+*  Diversify Market Reach: While North America remains a crucial market,expanding into other regions with higher profit potential like an high margin countries like kazakhstan and the Bahamas could significantly boost overall profitability.
 

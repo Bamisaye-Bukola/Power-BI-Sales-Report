@@ -3,6 +3,10 @@
 ## Table of contents
 
 - [Objectives](#objectives)
+- [Project Overview](#project-overview)
+- [Insight page](#insight-page)
+- [Recommendation](#recommendation)
+  
 
 ![](500Salesdataset.JPG)
 

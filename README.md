@@ -12,6 +12,8 @@
 
 ## Project Overview
 
+---
+
 This sales report project analyzes a dataset containing key information like region,country,item type,sales channels,order details and sales figures. By examining this data, the project aims to understand sales performance across different regions,products and channels. it seeks to identify trends, such as top-selling items and effective sales channels. Additionally, the aim of this project is to diva into the sales of this company between the year 2010-2017, and get some fact that can assist the business, some of the things we want to know about the data are;
 * Production Expenses
 * Revenue
@@ -39,6 +41,9 @@ In this preparation phase,we performed the following tasks;
 2. Handling missing values
 3. Removed duplicate roles
 4. Data cleaning and formatting
+
+   
+![Sale report dashboard](https://github.com/Bamisaye-Bukola/Power-BI-Sales-Report/assets/158211833/cc2e941a-b9a6-41f2-99d3-d5fb9baab671)
 
 ## Insight Page
 1.  Production Expenses
